@@ -1,1 +1,1 @@
-My second readme
+**My second readme about exploring git**
